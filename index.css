@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    text-decoration:;
+    color: lightseagreen;
+}
+body {
+    background-color:lightskyblue;
+}
+div{
+    text-align: center;
+}
+
+img {   
+    margin-top: 5px;
+    border: 5px solid lightseagreen;
+    cursor: pointer;
+}
+
+input {
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+    border: 5px solid lightseagreen;
+    border-radius: 8px;
+}
+
+.title{
+    color: aqua;
+}
